@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\uni\7. semester\gpu-programmierung\matrixproduct\build\Matrix.h(31): warning C4812: obsolete declaration style: please use 'Matrix<T>::Matrix' instead
+d:\uni\7. semester\gpu-programmierung\matrixproduct\build\Matrix.h(31): warning C4812: obsolete declaration style: please use 'Matrix<float>::Matrix' instead
+  d:\uni\7. semester\gpu-programmierung\matrixproduct\build\Matrix.h(31): note: while compiling class template member function 'Matrix<float>::Matrix(int,int)'
+  main.cpp(10): note: see reference to function template instantiation 'Matrix<float>::Matrix(int,int)' being compiled
+  main.cpp(10): note: see reference to class template instantiation 'Matrix<float>' being compiled
+d:\uni\7. semester\gpu-programmierung\matrixproduct\build\Matrix.h(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  d:\uni\7. semester\gpu-programmierung\matrixproduct\build\Matrix.h(90): note: while compiling class template member function 'void Matrix<float>::fillMatrix(void)'
+  main.cpp(13): note: see reference to function template instantiation 'void Matrix<float>::fillMatrix(void)' being compiled
+d:\uni\7. semester\gpu-programmierung\matrixproduct\build\Matrix.h(96): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.vcxproj -> D:\Uni\7. Semester\GPU-Programmierung\Matrixproduct\build\Debug\main.exe

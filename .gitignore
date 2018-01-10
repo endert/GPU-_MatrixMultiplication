@@ -4,3 +4,6 @@
 *.ptx
 *.cubin
 *.fatbin
+/Matrixproduct/build/CMakeFiles/3.5.2/*.bin
+/Matrixproduct/build/CMakeFiles/3.5.2/CompilerIdC/Debug/CompilerIdC.tlog/*.tlog
+*.tlog

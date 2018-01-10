@@ -1,0 +1,3 @@
+D:/Uni/7. Semester/GPU-Programmierung/Matrixproduct/build/CMakeFiles/main.dir
+D:/Uni/7. Semester/GPU-Programmierung/Matrixproduct/build/CMakeFiles/ALL_BUILD.dir
+D:/Uni/7. Semester/GPU-Programmierung/Matrixproduct/build/CMakeFiles/ZERO_CHECK.dir
